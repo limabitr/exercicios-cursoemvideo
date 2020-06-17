@@ -1,3 +1,3 @@
 # Exercícios
-Guardarei nesse repositório todos os exercícios
+Guardarei nesse repositório todos os exercícios.
 Créditos: Gustavo Guanabara - Cursoemvideo 
