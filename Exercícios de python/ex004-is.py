@@ -7,12 +7,9 @@ print(f'', type(n), '\n'
                     f'Está em maiúscula? {n.isupper()}\n'
                     f'Está capitalizada? {n.istitle()}\n'
                     f'Só tem espaços? {n.isspace()}')
-#
-# outra forma
-#
+
+# outra forma---------------------------------------------
 # n = (input('digite algo: ')
 # print(type(n))
 # print('É alfabético? {}'.format(n.isalpha))
 # print('É maiúscula{}'.format(n.isupper))
-#
-# FIM
