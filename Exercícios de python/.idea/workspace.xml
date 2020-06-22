@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce3507f0-9790-491f-b91f-b09966f854ff" name="Default Changelist" comment="Add colours" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="966" height="225" key="GridCell.Tab.0.bottom" timestamp="1592862468410">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="966" height="225" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1592862468410" />
+    <state width="966" height="225" key="GridCell.Tab.0.center" timestamp="1592862468410">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="966" height="225" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1592862468410" />
+    <state width="966" height="225" key="GridCell.Tab.0.left" timestamp="1592862468410">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="966" height="225" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1592862468410" />
+    <state width="966" height="225" key="GridCell.Tab.0.right" timestamp="1592862468410">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="966" height="225" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1592862468410" />
+  </component>
+</project>
