@@ -4,5 +4,6 @@ if n1 > n2:
     print(f'{n1} é maior que {n2}')
 elif n1 < n2:
     print(f'{n2} é maior {n1}')
-elif n1 == n2:
+# Proteção
+else:
     print('Os dois números são iguais')
