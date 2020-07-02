@@ -3,7 +3,7 @@ a = float(input('Insira sua altura em metros: '))
 
 imc = p/pow(a, 2)
 if imc < 18.5:
-    print('\033[1;31mAbaixo do peso\033[m')
+    print('\033[1;31mAbaixo do peso normal\033[m')
 elif 18.5 <= imc < 25:
     print('\033[1;32mPeso ideal\033[m')
 elif 25 <= imc <= 30:
