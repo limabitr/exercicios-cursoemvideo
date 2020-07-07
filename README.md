@@ -1,6 +1,6 @@
-## Estudos e exercícios de Python que achei pelas interwebs :D
+# Estudos e exercícios de Python que achei pelas interwebs :D
 
-# Conteúdo
+## Conteúdo
 
 ### Exercícios do canal [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
   **Professor [**Gustavo Guanabara**.](https://github.com/gustavoguanabara)
